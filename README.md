@@ -16,7 +16,7 @@ _En construcción..._
 | | | | |
 5	|	C. C. Diego	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
-6	|	C. C. Juan Jose	|	Equipo …	|	https://github.com/...  	| | | | |
+6	|	C. C. Juan Jose	|	Equipo 10	|	https://github.com/jcc552  	| | | | |
 | | | | |
 7	|	E. H. Ilyass	|	Equipo …	|	https://github.com/...  	| | | | |
 | | | | |
